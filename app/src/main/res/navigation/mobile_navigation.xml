@@ -28,4 +28,9 @@
         android:name="ru.mirea.tereshkin.mireaproject.MusicFragment"
         android:label="Music"
         tools:layout="@layout/l_music_fragment" />
+    <fragment
+        android:id="@+id/nav_sensors"
+        android:name="ru.mirea.tereshkin.mireaproject.SensorFragment"
+        android:label="Music"
+        tools:layout="@layout/l_music_fragment" />
 </navigation>
