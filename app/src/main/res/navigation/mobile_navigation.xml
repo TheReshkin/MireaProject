@@ -33,4 +33,9 @@
         android:name="ru.mirea.tereshkin.mireaproject.SensorFragment"
         android:label="Music"
         tools:layout="@layout/l_music_fragment" />
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.tereshkin.mireaproject.CameraFragment"
+        android:label="Music"
+        tools:layout="@layout/l_camera_fragment" />
 </navigation>
